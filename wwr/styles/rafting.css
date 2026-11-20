@@ -65,7 +65,7 @@ h1 {
 }
 
 .hero article {
-    position: absolute;
+    position: static;
     bottom: 20px;
     left: 20px;
     right: 20px;
