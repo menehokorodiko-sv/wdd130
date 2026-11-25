@@ -248,6 +248,14 @@ header img {
 }
 
 /* Navigation Layout */
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
 nav a {
     text-decoration: none;
     padding: 10px;
