@@ -232,3 +232,25 @@ footer p {
         padding: 35px 15px;
     }
 }
+
+/* Header Layout */
+header {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    align-items: center;
+    padding: 20px;
+}
+
+/* Header Logo */
+header img {
+    width: 100px;
+    height: auto;
+}
+
+/* Navigation Layout */
+nav a {
+    text-decoration: none;
+    padding: 10px;
+    color: #333333;
+    font-weight: bold;
+}
